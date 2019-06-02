@@ -1,6 +1,6 @@
 {
-"main":{"temp":[15, 17], 
-"rh":[55, 57], 
+"main":{"temp":15, 
+"rh":55, 
 "weight":11,
 "date":30,
 "opening":0
